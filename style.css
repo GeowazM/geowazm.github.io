@@ -1,6 +1,15 @@
+:root {
+    --accent: #A8583C;
+    --main: #2E232B;
+    --light: #C79769;
+    --lighter: #A1A69E;
+    --border: #C79769;
+    --bg: #F8F6F5;
+}
+
 body {
-  background: #fff;
-  color: #333;
+  background: var(--bg);
+  color: var(--main);
   font-family: sans-serif;
   display: block;
   text-align: left;
@@ -8,6 +17,7 @@ body {
   margin: 0 auto;
 }
 
-a {
-	color: blue;
+a, a:visited {
+	color: var(--accent);
+	text-decoration: none;
   }
