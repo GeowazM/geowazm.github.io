@@ -1,0 +1,30 @@
+:root {
+    --accent: #A8583C;
+    --main: #2E232B;
+    --light: #C79769;
+    --lighter: #A1A69E;
+    --border: #C79769;
+    --bg: #F8F6F5;
+}
+
+body {
+  background: var(--bg);
+  color: var(--main);
+  font-family: Verdana;
+  display: block;
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
+
+a, a:visited {
+	color: var(--accent);
+	text-decoration: none;
+  }
+
+.p-adr {
+  background-color: var(--light);
+  width: 250px;
+  padding: 15px;
+  margin-left: -20px;
+}
