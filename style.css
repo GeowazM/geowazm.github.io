@@ -21,6 +21,11 @@ a, a:visited {
 	text-decoration: none;
 }
 
+a:hover {
+	color: var(--accent);
+	text-decoration: underline;
+}
+
 /* Make the website responsive */
 @media screen and (max-width: 100%) {
   .main {
