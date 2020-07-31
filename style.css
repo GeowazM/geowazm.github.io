@@ -57,3 +57,14 @@ img.home-banner {
 .bullet {
   line-height: 30px;
 }
+
+/* Format the footer */
+.footer {
+	margin-top: 6em;
+	text-align: center;
+	border-top: 1px solid var(--border);
+}
+
+.footer p {
+  font-size: 0.75em;
+}
