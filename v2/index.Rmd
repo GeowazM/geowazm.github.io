@@ -1,0 +1,58 @@
+---
+title: "Christian Sommer"
+image: "chris_800x800.jpg"
+links:
+  - label: Github
+    url: "https://github.com/sommergeo/"
+  - label: Twitter
+    url: "https://twitter.com/sommer_geo"
+  - label: Email
+    url: "mailto:christian.sommer@uni-tuebingen.de"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I'm a Physical Geographer who studies the prehistory of landscapes and its implications for early humans with quantitative spatial analyses. My methodological focus lies on GIS, Remote Sensing, Data Mining with spatial data and Geomorphological field techniqes. My temporal and regional foci are the Pleistocene in Africa and Eurasia, and especially the Late Pleistocene of Eastern South Africa. I work at the research center "The Role of Culture in Early Expansions of Humans" (ROCEEH) of the Heidelberg Academy of Sciences and Humanities, situated at the Department of Geography, Tübingen University.
+
+
+## Education
+
+**Dr. rer. nat** in Geography | Uni Tübingen, 2021
+
+**M.Sc.** in Physical Geography (GIS & Remote Sensing) | Uni Tübingen, 2016
+
+**B.Sc.** in Physical Geograpy | Uni Eichstätt-Ingolstadt, 2012
+
+
+## Online Ressources
+
+- Homepage at the [Heidelberg Academy of Sciences and Humanities](https://hadw-bw.de/en/mitarbeiter/dr-christian-sommer)
+- Homepage at the [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/geoinformatik-gis/arbeitsgruppe/team/christian-sommer/)
+- Zotero: [List of publications](https://zotero.org/sommergeo)
+- ORCID: [0000-0001-9062-0876](https://orcid.org/0000-0001-9062-0876)
+- Github: [sommergeo](https://github.com/sommergeo/)
+- Figshare: [My uploads](https://figshare.com/authors/Christian_Sommer/9470378) 
+- ResearchGate: [Christian_Sommer5](https://www.researchgate.net/profile/Christian_Sommer5)
+- Twitter: [sommer_geo](https://twitter.com/sommer_geo)
+
+## Contact
+
+**The Role of Culture in Early Expansions of Humans (ROCEEH)**  
+Heidelberg Academy of Sciences and Humanities  
+Hölderlinstr. 12  
+72074 Tübingen  
+Germany 
+
+Room S237
+
+
+**Department of Geography**  
+Tübingen University  
+Rümelinstr. 19–23  
+72070 Tübingen  
+Germany  
+
+Room W401  
+Phone [+497071-29-77505](tel:+4970712977505)
