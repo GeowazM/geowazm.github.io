@@ -14,7 +14,7 @@ output:
  
 ## Bio
 
-I'm a Physical Geographer who studies the prehistory of landscapes and its implications for early humans with quantitative spatial analyses. My methodological focus lies on GIS, Remote Sensing, Data Mining with spatial data and Geomorphological field techniqes. My temporal and regional foci are the Pleistocene in Africa and Eurasia, and especially the Late Pleistocene of Eastern South Africa. I work at the research center "The Role of Culture in Early Expansions of Humans" (ROCEEH) of the Heidelberg Academy of Sciences and Humanities, situated at the Department of Geography, Tübingen University.
+I'm a Physical Geographer who studies the prehistory of landscapes and its implications for early humans with quantitative spatial analyses. My methodological focus lies on GIS, Remote Sensing, Data Mining and Geomorphological field techniqes. My temporal and regional foci are the Pleistocene in Africa and Eurasia, and especially the Late Pleistocene of Eastern South Africa. I work at the research center "The Role of Culture in Early Expansions of Humans" (ROCEEH) of the Heidelberg Academy of Sciences and Humanities, situated at the Department of Geography, Tübingen University.
 
 
 ## Education
@@ -30,12 +30,14 @@ I'm a Physical Geographer who studies the prehistory of landscapes and its impli
 
 - Homepage at the [Heidelberg Academy of Sciences and Humanities](https://hadw-bw.de/en/mitarbeiter/dr-christian-sommer)
 - Homepage at the [University of Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/geoinformatik-gis/arbeitsgruppe/team/christian-sommer/)
-- Zotero: [List of publications](https://zotero.org/sommergeo)
 - ORCID: [0000-0001-9062-0876](https://orcid.org/0000-0001-9062-0876)
-- Github: [sommergeo](https://github.com/sommergeo/)
-- Figshare: [My uploads](https://figshare.com/authors/Christian_Sommer/9470378) 
-- ResearchGate: [Christian_Sommer5](https://www.researchgate.net/profile/Christian_Sommer5)
-- Twitter: [sommer_geo](https://twitter.com/sommer_geo)
+- Zotero: [Full list of publications](https://zotero.org/sommergeo)
+- Google Scholar: [List of publications](https://scholar.google.com/citations?user=f2oBVT8AAAAJ)
+- ResearchGate: [List of publications](https://www.researchgate.net/profile/Christian_Sommer5)
+- Github: [Repositories and code](https://github.com/sommergeo/)
+- Figshare: [Presentations, figures and maps](https://figshare.com/authors/Christian_Sommer/9470378)
+- Sketchfab: [3D Models](https://sketchfab.com/sommergeo)
+- Twitter: [@sommer_geo](https://twitter.com/sommer_geo)
 
 ## Contact
 
@@ -46,7 +48,7 @@ Hölderlinstr. 12
 Germany 
 
 Room S237  
-Phone [+497071-29-72131](tel:+4970712972131)
+Phone [+49-7071-29-72131](tel:+4970712972131)
 
 **Department of Geography**  
 Tübingen University  
@@ -55,4 +57,4 @@ Rümelinstr. 19–23
 Germany  
 
 Room W401  
-Phone [+497071-29-77505](tel:+4970712977505)
+Phone [+49-7071-29-77505](tel:+4970712977505)
