@@ -3,7 +3,7 @@
     "path": "C:/data/git/sommergeo.github.io/v2/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2456587291",
+    "hash": "1406272357",
     "contents": "",
     "dirty": false,
     "created": 1657261408449.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "56,9",
-        "scrollLine": "31"
+        "cursorPosition": "61,3",
+        "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1666257392,
+    "lastKnownWriteTime": 1670328279,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1666257392340,
+    "last_content_update": 1670328279901,
     "read_only": false,
     "read_only_alternatives": []
 }
