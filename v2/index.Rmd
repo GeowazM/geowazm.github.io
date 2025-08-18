@@ -1,15 +1,15 @@
 ---
-title: "Christian Sommer"
-image: "chris_800x800.jpg"
+title: "Mario Blersch"
+image: "2024_Mario_Blersch_small_1x1.JPG"
 links:
-  - label: Email
-    url: "mailto:christian.sommer@uni-tuebingen.de"
-  - label: Publications
-    url: "https://zotero.org/sommergeo"
+  - label: E-Mail
+    url: "mailto:mario.blersch@uni-tuebingen.de"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Mario-Blersch/"
   - label: Github
-    url: "https://github.com/sommergeo/"
-  - label: Twitter
-    url: "https://twitter.com/sommer_geo"
+    url: "https://github.com/GeowazM/"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/mario-blersch-b6090b200/"
 
 output:
   postcards::trestles
@@ -20,7 +20,7 @@ output:
 I'm a Physical Geographer who studies the prehistory of landscapes and its implications for early humans with quantitative spatial analyses. My methodological focus lies on GIS, Remote Sensing, Data Mining and Geomorphological field techniques. My temporal and regional foci are the Pleistocene in Africa and Eurasia, and especially the Late Pleistocene of Eastern South Africa. I work at the research center "The Role of Culture in Early Expansions of Humans" (ROCEEH) funded by the Heidelberg Academy of Sciences and Humanities. I'm situated at the Department of Geosciences, Research Area Geography of the University of Tübingen.
 
 
-## Education
+## Ausbildung
 
 **Dr. rer. nat.** in Geography | Uni Tübingen, 2021
 
